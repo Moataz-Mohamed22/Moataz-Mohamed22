@@ -1,61 +1,169 @@
+```html
 <h1 align="left">Hi 👋! My name is Al-Moataz Bellah</h1>
 
 ###
 
-<h2 align="left">Flutter Developer</h2>
+<h2 align="left">Full Stack .NET Developer</h2>
 
 ###
 
-<h3 align="left">languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
-</div>
-
-###
-
-<h6 align="left">Skils:<br>• Flutter & Dart • Firebase (Auth-Firestore-FCM) • RESTful APIs Integration<br>• Responsive UI • State Management(Provider-Bloc-Cubit) • Dio / http<br>• Solid Principles • Local Database (SQLite,-Hive- Shared Prefrences ) • Clean Architecture<br>• MVVM • Google Maps Integration • In-App payment<br>• CI/CD • Flavors • Agile<br>• Git & GitHub • Localization • Repository Pattern</h6>
+<h3 align="left">Languages & Technologies</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/moataz_mohamed33/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="moataz.wmm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/al-moataz-bellah-mohsen-222327315" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <a href="‏‪+201032775681‬‏" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".net logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo" />
+
+  <img width="16" />
+
+  <!-- Front-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angular logo" />
+
+  <img width="16" />
+
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo" />
+
+  <img width="16" />
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sql server logo" />
+
+  <img width="16" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visual studio logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="android studio logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
 </div>
 
 ###
 
-<br clear="both">
+<h3 align="left">Skills</h3>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h6 align="left">
 
-###
+🔹 Backend (.NET)
+<br>
+
+• C# • OOP • SOLID • LINQ • T-SQL • SQL Server
+<br>
+
+• ADO.NET • Entity Framework Core (Code First & Database First)
+<br>
+
+• ASP.NET Core MVC • ASP.NET Core Web API
+<br>
+
+• Authentication & Authorization (JWT)
+<br>
+
+• Repository Pattern • Dependency Injection
+<br>
+
+• RESTful APIs • Clean Architecture
+
+<br><br>
+
+🔹 Front-End
+<br>
+
+• HTML5 • CSS3 • Bootstrap 5
+<br>
+
+• JavaScript (ES6)
+<br>
+
+• TypeScript
+<br>
+
+• Angular
+
+<br><br>
+
+🔹 Mobile
+<br>
+
+• Flutter & Dart
+<br>
+
+• Firebase (Auth - Firestore - FCM)
+<br>
+
+• Bloc / Cubit / Provider
+<br>
+
+• Dio / HTTP
+<br>
+
+• SQLite • Hive • Shared Preferences
+<br>
+
+• Google Maps
+<br>
+
+• In-App Payment
+<br>
+
+• MVVM
+
+<br><br>
+
+🔹 Tools
+<br>
+
+• Git & GitHub
+<br>
+
+• Visual Studio
+<br>
+
+• VS Code
+<br>
+
+• Android Studio
+<br>
+
+• Postman
+<br>
+
+• Swagger
+<br>
+
+• Agile / Scrum
+<br>
+
+• CI/CD
+</h6>
+```
